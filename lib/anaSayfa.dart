@@ -84,7 +84,7 @@ class InstaStories extends StatelessWidget {
                     shape: BoxShape.circle,
                     image: DecorationImage(
                       fit: BoxFit.fill,
-                      image: AssetImage("assets/images/pp2.jpg"),
+                      image: AssetImage("assets/images/pp.jpg"),
                     ),
                   ),
                   margin: const EdgeInsets.symmetric(horizontal: 8.0),
