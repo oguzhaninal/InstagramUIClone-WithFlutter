@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169691716646",
+    "project_id": "noragram-56c1b",
+    "storage_bucket": "noragram-56c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169691716646:android:9a83970797c50c9ed91ae7",
+        "android_client_info": {
+          "package_name": "com.example.bloguygulamasi_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169691716646-dcmd9u410q58vvkv8hov2l5op4amer80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHKPOJSzX2t38l_2I1cQj00AZUt_aFwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169691716646-dcmd9u410q58vvkv8hov2l5op4amer80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
